@@ -1,8 +1,8 @@
-package com.highfour.size-matters-server.desktop;
+package com.highfour.size_matters_server.desktop;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-import com.highfour.size-matters-server.SMServer;
+import com.highfour.size_matters_server.SMServer;
 
 public class DesktopLauncher {
 	public static void main (String[] arg) {

@@ -13,7 +13,7 @@ allprojects {
 
     version = '1.0'
     ext {
-        appName = 'size-matters-server'
+        appName = 'size_matters_server'
         gdxVersion = '1.0.0'
         roboVMVersion = '0.0.11'
     }
